@@ -1,0 +1,2 @@
+# Android_Application_guardian
+ITプロジェクト、スマホ管理アプリ
